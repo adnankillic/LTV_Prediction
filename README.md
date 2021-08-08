@@ -6,10 +6,10 @@ LTV is the KPI that takes all revenue factor into account, a company that focuse
 
 By calculating LTV, you will be able to: 
 
-*Estimate how much each acquired user will generate over time
-*Calculate scale potential by identifying how much you can spend on user acquisition and still generate a profit 
-*Understand when it’s time to stop promoting a game without new features or changes
-*Optimize revenue streams to increase profitability  
+* Estimate how much each acquired user will generate over time
+* Calculate scale potential by identifying how much you can spend on user acquisition and still generate a profit 
+* Understand when it’s time to stop promoting a game without new features or changes
+* Optimize revenue streams to increase profitability  
 This data allows marketers to modify budgets and pinpoint exactly how much money they can afford to spend on user acquisition and still remain profitable.
 
 
